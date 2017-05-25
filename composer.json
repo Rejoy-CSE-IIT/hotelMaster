@@ -1,0 +1,14 @@
+{
+    "name": "vendor/hotel",
+    "description": "Description of project Hotel.",
+    "authors": [
+        {
+            "name": "Rijoy",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+       
+    } 
+    
+}
